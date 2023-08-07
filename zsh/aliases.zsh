@@ -1,5 +1,0 @@
-alias c='clear'
-alias gw='neofetch'
-alias l='ls -la'
-alias h='cd ~'
-alias v='nvim'
